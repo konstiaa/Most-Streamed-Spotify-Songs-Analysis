@@ -2,6 +2,8 @@
 
 The project aims to prepare a detailed report describing top streamed Spotify songs in order in allow stakeholders to tap into the factors influencing the popularity of specific songs. The insights derived from this dashboard are crucial, since the amount of streams directly influences the total streaming time, as well as the average span of a session, both of which are key metrics for management to consider. The report consists of two pages. The first one provides an overview of the current trends and key characteristics of songs under review. Whereas the second page gives stakeholders an opportunity to dig deeper into specific causes that result in high or low ammounts of streams, utilizing an interactive decomposition tree. The second page also provides the user with an interactive slicer page by using buttons to limit the amount of taken space.
 
+Dataset was taken from here: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download
+
 **Page 1 Overview:**
 
 <img width="665" alt="image12" src="https://github.com/konstiaa/Most-Streamed-Spotify-Songs-Analysis/assets/150454292/85abcd49-d087-41fd-aabb-f5a2eaf0e923">
